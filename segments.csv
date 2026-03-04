@@ -1,0 +1,96 @@
+line_item_orig,line_item_orig_name,segment,umass,stateu,commcoll,finaid,campus
+1595-7066,STEM Pipeline Fund,,,,,FALSE,FALSE
+7066-0000,Department of Higher Education,,,,,FALSE,FALSE
+7066-0009,New England Board of Higher Education,,,,,FALSE,FALSE
+7066-0016,Foster Care Financial Aid,,,,,TRUE,FALSE
+7066-0019,Dual Enrollment Grant and Subsidies,,,,,FALSE,FALSE
+7066-0021,Foster Care and Adopted Fee Waiver,,,,,TRUE,FALSE
+7066-0025,Performance Management Set Aside,,,,,FALSE,FALSE
+7066-0070,Civic Engagement Program,,,,,FALSE,FALSE
+7066-0115,Public Matching Grants for Private Funds,,,,,FALSE,FALSE
+7066-9600,Inclusive Concurrent Enrollment,,,,,FALSE,FALSE
+7070-0065,Massachusetts State Scholarship Program,,,,,TRUE,FALSE
+7070-0066,High Demand Scholarship Program,,,,,TRUE,FALSE
+7077-0023,Tufts School of Veterinary Medicine Program,,,,,FALSE,FALSE
+7112-0101,MetroWest College Planning Center,,FALSE,TRUE,TRUE,FALSE,TRUE
+7520-0424,Health and Welfare Reserve for Higher Education Personnel,,FALSE,TRUE,TRUE,FALSE,TRUE
+8700-1150,National Guard Tuition and Fee Waivers,,,,,TRUE,FALSE
+1595-0902,Haverhill Satellite Center Trust Fund,University of Massachusetts,TRUE,FALSE,FALSE,FALSE,TRUE
+1599-4441,Community College Collective Bargaining Agreement Reserve,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7066-0015,Workforce Development Grants to Community Colleges,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7066-0036,STEM Starter Academy,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7100-4000,Massachusetts Community Colleges,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7502-0100,Berkshire Community College,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7503-0100,Bristol Community College,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7504-0100,Cape Cod Community College,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7504-0102,FAA-Certified Airframe and Power Plant Program,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7505-0100,Greenfield Community College,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7506-0100,Holyoke Community College,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7507-0100,Massachusetts Bay Community College,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7508-0100,Massasoit Community College,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7509-0100,Mount Wachusett Community College,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7509-0101,Brewer Center for Civic Learning and Community Engagement,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7509-0125,Youth Venture,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7509-0140,Civic Engagement Program,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7510-0100,Northern Essex Community College,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7510-0200,Northern Essex Community College Expansion Programs,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7511-0100,North Shore Community College,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7512-0100,Quinsigamond Community College,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7514-0100,Springfield Technical Community College,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7515-0100,Roxbury Community College,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7515-0120,Reggie Lewis Track and Athletic Center,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7515-0121,Reggie Lewis Track and Athletic Center Retained Revenue,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7516-0100,Middlesex Community College,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7518-0100,Bunker Hill Community College,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+1599-4440,State Universities Collective Bargaining Agreement Reserve,State Universities,FALSE,TRUE,FALSE,FALSE,TRUE
+7066-1400,State University Incentive Grants,State Universities,FALSE,TRUE,FALSE,FALSE,TRUE
+7109-0100,Bridgewater State University,State Universities,FALSE,TRUE,FALSE,FALSE,TRUE
+7110-0100,Fitchburg State University,State Universities,FALSE,TRUE,FALSE,FALSE,TRUE
+7112-0100,Framingham State University,State Universities,FALSE,TRUE,FALSE,FALSE,TRUE
+7113-0100,MA College of Liberal Arts,State Universities,FALSE,TRUE,FALSE,FALSE,TRUE
+7113-0101,Gallery 51 at the Berkshire Cultural Resource Center,State Universities,FALSE,TRUE,FALSE,FALSE,TRUE
+7114-0100,Salem State University,State Universities,FALSE,TRUE,FALSE,FALSE,TRUE
+7115-0100,Westfield State University,State Universities,FALSE,TRUE,FALSE,FALSE,TRUE
+7116-0100,Worcester State University,State Universities,FALSE,TRUE,FALSE,FALSE,TRUE
+7117-0100,Massachusetts College of Art,State Universities,FALSE,TRUE,FALSE,FALSE,TRUE
+7118-0100,Massachusetts Maritime Academy,State Universities,FALSE,TRUE,FALSE,FALSE,TRUE
+1599-4299,UMass Collective Bargaining Reserve,University of Massachusetts,TRUE,FALSE,FALSE,FALSE,TRUE
+1599-4417,E.J. Collins Jr. Center for Public Management,University of Massachusetts,TRUE,FALSE,FALSE,FALSE,TRUE
+1599-7104,Star Store,University of Massachusetts,TRUE,FALSE,FALSE,FALSE,TRUE
+1599-7106,Nano/Bio-Manufacturing Facility - UMass Lowell,University of Massachusetts,TRUE,FALSE,FALSE,FALSE,TRUE
+1599-7114,UMass Center at Springfield,University of Massachusetts,TRUE,FALSE,FALSE,FALSE,TRUE
+7100-0200,University of Massachusetts,University of Massachusetts,TRUE,FALSE,FALSE,FALSE,TRUE
+7100-0700,Office of Dispute Resolution,University of Massachusetts,TRUE,FALSE,FALSE,FALSE,TRUE
+7100-0801,Innovation Commercialization Seed Fund,University of Massachusetts,TRUE,FALSE,FALSE,FALSE,TRUE
+7100-0900,UMass Medical School Medical Research,University of Massachusetts,TRUE,FALSE,FALSE,FALSE,TRUE
+7100-0901,Innovation Voucher Program Fund,University of Massachusetts,TRUE,FALSE,FALSE,FALSE,TRUE
+1596-2414,Financial Aid Expansion,,,,,TRUE,FALSE
+1596-2423,Targeted In-Demand Scholarships,,,,,TRUE,FALSE
+1596-2425,DHE Endowment Match,,FALSE,TRUE,TRUE,FALSE,TRUE
+1596-2502,Community College and State University Wraparound Supports,,FALSE,TRUE,TRUE,TRUE,FALSE
+1599-6087,Scholarship Program,,,,,FALSE,FALSE
+1599-7115,Medical School Educational Track on Integrated Health,,,,,FALSE,FALSE
+4000-0020,Nursing and Allied Health Workforce Development,,,,,FALSE,FALSE
+7009-7477,Nursing Pipeline Grants,,,,,FALSE,FALSE
+7066-1003,Funding Support for QCC and WSU - Becker College Nursing Program,,FALSE,TRUE,TRUE,FALSE,TRUE
+7066-1116,Higher Education Public Safety Grants,,,,,FALSE,FALSE
+7066-1123,State University & Community College Mental Health Supports,,FALSE,TRUE,TRUE,FALSE,TRUE
+7518-0120,PACE Initiative,,FALSE,TRUE,TRUE,FALSE,TRUE
+1596-2418,MassReconnect,Community Colleges,FALSE,FALSE,TRUE,TRUE,FALSE
+1596-2426,UMass Endowment Match,University of Massachusetts,TRUE,FALSE,FALSE,FALSE,TRUE
+1596-2432,Free Community College Implementation Supports,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+1596-2433,Nursing Programs Free Community College,Community Colleges,FALSE,FALSE,TRUE,TRUE,FALSE
+1596-2439,SUCCESS for State Universities,State Universities,FALSE,TRUE,FALSE,FALSE,TRUE
+1596-2501,Free Community College,Community Colleges,FALSE,FALSE,TRUE,TRUE,FALSE
+1596-2601,State University Funding Formula Supplement,State Universities,FALSE,TRUE,FALSE,FALSE,TRUE
+1596-2602,Community College Funding Formula,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7100-0701,Center for Portuguese Studies and Culture,University of Massachusetts,TRUE,FALSE,FALSE,FALSE,TRUE
+7100-0702,Institute of Asian American Studies,University of Massachusetts,TRUE,FALSE,FALSE,FALSE,TRUE
+7100-0802,UMass Lowell Startups,University of Massachusetts,TRUE,FALSE,FALSE,FALSE,TRUE
+7100-4002,Community College SUCCESS Fund,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7114-0110,Frederick E. Berry Institute for Politics and Civic Engagement at Salem State University,State Universities,FALSE,TRUE,FALSE,FALSE,TRUE
+7118-0101,Mass. Maritime Academy Hydrokinetic Research,State Universities,FALSE,TRUE,FALSE,FALSE,TRUE
+7503-0101,Veterans Education Service Center at Bristol Community College,Community Colleges,FALSE,FALSE,TRUE,FALSE,TRUE
+7520-0425,Lyme Disease PrEP,University of Massachusetts,TRUE,FALSE,FALSE,FALSE,TRUE
+7066-1129,SARA Implementation,,,,,FALSE,FALSE
+7066-0040,Adult College Transition Services,Community Colleges,FALSE,FALSE,TRUE,FALSE,FALSE
