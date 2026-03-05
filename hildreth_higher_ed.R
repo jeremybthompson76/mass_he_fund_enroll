@@ -10,7 +10,7 @@ library(readxl)
 library(rlang)
 library(openxlsx)
 
-setwd("C:/Users/Admin-Aspire/Documents/Hildreth")
+#setwd("C:/Users/Admin-Aspire/Documents/Hildreth")
 options(scipen = 999)
 
 # Source URLs
@@ -245,7 +245,6 @@ enrollment <- enrollment |> bind_rows(
 ### Now we have our final in-state undergraduate FTE enrollment by segment and fiscal year to use as denominators for other measures.
 
 # Before we get spending, we'll import Implicit Price Deflators from BEA using the bea.R package.
-
 
 beaKey <- Sys.getenv("BEA_API_KEY")
 
