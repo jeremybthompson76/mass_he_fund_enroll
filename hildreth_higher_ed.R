@@ -20,7 +20,7 @@ tf <- "https://educationtocareer.data.mass.gov/resource/3bpk-k8k2.csv"
 cthru <- "https://cthru.data.socrata.com/resource/kv7m-35wn.csv"
 
 # My app token
-app_token <- "aJ80LDQH3vNUSk8XSBkle3pia"
+app_token <- Sys.getenv("MA_API_TOKEN")
 
 # Define function to import from API
 api_get <- function(url, query, token) {
@@ -246,7 +246,8 @@ enrollment <- enrollment |> bind_rows(
 
 # Before we get spending, we'll import Implicit Price Deflators from BEA using the bea.R package.
 
-beaKey <- "36F19B38-5350-43D8-B9F7-8070CC87AD43"
+
+beaKey <- Sys.getenv("BEA_API_KEY")
 
 # Define request
 ipd <- beaGet(
